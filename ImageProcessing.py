@@ -25,7 +25,7 @@ class ImageProcessing(object):
     def __init__(self, image_path):
         
         """
-        Initialize the class with the path to an image.
+        Initialize the class with the path to an image .
 
         Args:
             image_path (str): Path to the image file.
